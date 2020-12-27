@@ -1,5 +1,9 @@
 # mcq-quiz-test
 
+<img src="https://github.com/naimurhasan/vuejs-quiz-template/raw/master/Screenshot_11.jpg" width="600px">
+<img src="https://github.com/naimurhasan/vuejs-quiz-template/raw/master/Screenshot_10.jpg" width="600px">
+
+
 ## Project setup
 ```
 npm install
